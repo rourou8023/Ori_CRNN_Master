@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Crnn_chinese_characters_rec
 chinese characters recognition
 
@@ -88,4 +87,4 @@ Implements of cs229(Machine Leaning taught by Andrew Ng) in python.
 Chinese_Characters_Recognition;  
 此版本为最原始的CRNN代码版本
 cite vision: Sierkinhane / CRNN_Chinese_Characters_Rec
->>>>>>> 15f93ccf57b37200f3896afbff4e493feacf2397
+15f93ccf57b37200f3896afbff4e493feacf2397
